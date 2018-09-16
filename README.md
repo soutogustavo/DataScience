@@ -1,4 +1,8 @@
 # Data Science
-Data science :: Free content
 
-**Note:** Monthly updates
+**Note:** *Monthly updates*
+
+## Apriori:
+- Goal: Build an Apriori model for boolean association rules.
+- Domain: General.
+- Technologies: Python 3.x, Numpy, Pandas.
