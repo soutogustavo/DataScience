@@ -16,4 +16,4 @@
 - Goal: Build an Apriori model for boolean association rules.
 - Domain: General.
 - Technologies: Python 3.x, Numpy, Pandas.
-- Status: Completed.
+- Status: ![Completed](https://cdn0.iconfinder.com/data/icons/iconshock-windows7-icons/256/task_completed.png).
