@@ -1,6 +1,6 @@
 # Data Science
 
-**Note:** *Monthly updates*
+**Note:** *Monthly updates*!
 
 ## Learning
 
